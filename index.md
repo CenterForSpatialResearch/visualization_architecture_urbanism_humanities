@@ -3,8 +3,9 @@ layout: page
 permalink: /
 ---
 
+<span id="rTitle">FALL 2019</span>
 
-Welcome to Data Visualization for Architecture Urbanism and the Humanities Fall 2019
+Welcome to Data Visualization for Architecture Urbanism and the Humanities
 
 <p>This is a class that combines critical engagement with information visualization and its hands on production.
 In this class, students will be introduced to key concepts in the design of interactive information visualizations. We will put theory to practice in discussions that critically engage with the visualizations we find in the world. We will also produce visualizations by hand and by code - students should be prepared to learn and experiment with both.</p>
@@ -15,7 +16,7 @@ The practice of visualizing data has a long history, but it is also constantly e
 <p>Finally the practice of visualizing data sits at the intersection of multiple disciplines, it is also useful in many fields. Students are encouraged to bring both datasets and expertise from their backgrounds to class discussions and projects.</p>
 
 
-CLASS OUTCOMES
+<span id="rTitle">CLASS OUTCOMES</span>
 
 - Given a dataset, students will be able to understand the dimensions, qualities, and limitations of the dataset, and to decide on best approaches and visual representations.
 - Students will understand basic programming concepts, able to build basic visualizations, but most importantly know how and where to look to learn more.
