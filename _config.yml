@@ -17,7 +17,7 @@ title: Data Visualization A4982
 email: jz3077@columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the website for Data Visualization for Architecture, Urbanism, and the Humanities Fall 2019
-baseurl: "/visualization_architecture_urbanism_humanities_2019_fall" # the subpath of your site, e.g. /blog
+baseurl: "/visualization_architecture_urbanism_humanities" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: c4sr_columbia
 #github_username:  CenterForSpatialResearch
