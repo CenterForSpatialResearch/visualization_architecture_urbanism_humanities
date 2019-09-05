@@ -15,7 +15,7 @@ In this class, students will be introduced to key concepts in the design of inte
 The practice of visualizing data has a long history, but it is also constantly evolving. Students will be introduced to this history and the state of the current field through lectures and discussions.</p>
 <p>Finally the practice of visualizing data sits at the intersection of multiple disciplines, it is also useful in many fields. Students are encouraged to bring both datasets and expertise from their backgrounds to class discussions and projects.</p>
 
-<p>Please find the <a href="https://docs.google.com/document/d/1n0P_XaPIyeC4Jg0FWnGEbL-NsIi87J3X77FQvySbZVc/edit?usp=sharing">syllabus here</a></p>
+<p>Please find the <strong><a href="https://docs.google.com/document/d/1n0P_XaPIyeC4Jg0FWnGEbL-NsIi87J3X77FQvySbZVc/edit?usp=sharing">syllabus here</a></strong></p>
 
 
 <span id="rTitle">CLASS OUTCOMES</span>
