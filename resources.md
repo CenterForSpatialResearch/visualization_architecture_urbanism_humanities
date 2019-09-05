@@ -7,7 +7,7 @@ permalink: /resources/
 <span id="rTitle">TEXTBOOK</span><br>
 
 <div id ="rItem">
-<a href="https://web-b-ebscohost-com.ezproxy.cul.columbia.edu/ehost/detail/detail?vid=0&sid=827c702a-cdb2-4ed6-951e-adfc2f0b5029%40pdc-v-sessmgr06&bdata=JnNpdGU9ZWhvc3QtbGl2ZSZzY29wZT1zaXRl#AN=1570142&db=nlebk" target="_blank"><strong><u>Interactive Data Visualization for the Web : An Introduction to Designing with D3</u></strong> </a><br>
+<a href="https://ezproxy.cul.columbia.edu/login?qurl=https%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dnlebk%26AN%3d1570142%26site%3dehost-live%26scope%3dsite&ebv=EB&ppid=pp_1" target="_blank"><strong><u>Interactive Data Visualization for the Web : An Introduction to Designing with D3</u></strong> </a><br>
 2nd Edition 2017<br>
 by Scott Murray<br>
  <i>You must be logged in to your account to view textbook online.</i><br>
