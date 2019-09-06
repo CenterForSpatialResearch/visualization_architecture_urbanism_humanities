@@ -12,7 +12,7 @@ permalink: /resources/
 by Scott Murray<br>
  <i>You must be logged in to your account to view textbook online.</i><br>
 
-You can find tutorial companion files at at <a href="https://github.com/alignedleft/d3-book" target="_blank"><u>Scott Murray's Github account</u></a>
+You can find tutorial companion files for use specifically in this class at <a href="https://github.com/CenterForSpatialResearch/visualization_auh_tutorials" target="_blank"><u>Adapted d3 Tutorials for Class</u></a>
 <br>
 <br>
 </div>
