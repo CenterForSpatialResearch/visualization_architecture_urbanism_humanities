@@ -57,7 +57,7 @@ SELF QUANTIFICATION PROJECT WEEK 2
 - Discuss Self Quantification Project sketches and insights
 
 LECTURE
-- Narratives: narrative structure and storytelling for visualization
+- Narratives and Storytelling for Visualization
 
 <i>ASSIGNMENTS
 - <i>Self Quantification Project - Sketch 3 possibilities with different graphic representations.
@@ -72,8 +72,11 @@ LECTURE
 SELF QUANTIFICATION PROJECT WEEK 3
 - Self Quantification Project Presentations
 
+FINAL PROJECT WEEK 0
+- Introduction to Final Project
+- Team formation and ideas discussion in class
+
 LECTURE
-- Self Quantification Presentations
 - The Idea of Interactivity
 - Interactivity examples in D3
 
@@ -90,14 +93,12 @@ LECTURE
 
 <span id="rTitle">WEEK 6 OCTOBER 11</span>
 
-FINAL PROJECT WEEK 0
-- Introduction to Final Project
-- Team formation and ideas discussion in class
+FINAL PROJECT WEEK 1
+- Finalize team formation and topics in class
 
 LECTURE
 - Power of Representation (and underrepresentation)
 - Data Humanism
-- Introduction to Public Data Resources
 
 <i>ASSIGNMENTS
 - <i>Final Project - ideas and preliminary data
@@ -108,56 +109,59 @@ LECTURE
 
 <span id="rTitle">WEEK 7 OCTOBER 18</span>
 
-FINAL PROJECT WEEK 1
+FINAL PROJECT WEEK 2
 - Issues and challenges?
+- Preparing for your project pitch
    
 Lecture:
 - Review of Everything So Far
-- D3 review Chapters 1 - 10 and troubleshooting
+- D3 review Chapters 1 - 10 and troubleshooting and more on interactivity
 - How is it made? - some answers to your submissions from week 5
-- Planning your final project, discussions, ideas, and pitches
 
 <i>ASSIGNMENTS
-- <i>Final Project - ideas and preliminary data
+- <i>Final Project - formulate your final project pitch - presentations next week!
 - <i>Chapter 1 - 10 Review - Complete the accompanying code assignments
     - <i>TBD
 
 <span id="rTitle">WEEK 8 OCTOBER 25</span>
 
-FINAL PROJECT WEEK 2
-- Project Pitches - with guests! (And food) Option 1
+FINAL PROJECT WEEK 3
+- Project Pitches - with guests! and breakfast?
 
 LECTURE:
-- Introduction to special topics 1 Option 1
+- None
 
 <i>ASSIGNMENTS
-   - <i>Final Projects
+- <i>Final Projects
+- <i>Chapter 1 - 10 Review - Complete the accompanying code assignments
 
 <span id="rTitle">WEEK 9 NOVEMBER 1</span>
 
-FINAL PROJECT WEEK 3
-- Project Pitches - with guests! (And food) Option 2
+FINAL PROJECT WEEK 5
+- reflection on critique, discussion
 
 LECTURE:
-- Introduction to special topics 1 Option 2
+- Introduction to mapbox.js or
+- Introduction to D3 - more advanced interactivity
 
 <i>ASSIGNMENTS
    - <i>Final Projects
 
 <span id="rTitle">WEEK 10 NOVEMBER 8</span>
 
-FINAL PROJECT WEEK 4
+FINAL PROJECT WEEK 6
 - One on one meetings and troubleshooting
+- Project draft 1
 
 LECTURE:
-- Introduction to special topics 2 TBD
+- Introduction to special topics 2 - javascript libraries and layouts
 
 <i>ASSIGNMENTS
    - <i>Final Projects
 
 <span id="rTitle">WEEK 11 NOVEMBER 15</span>
 
-FINAL PROJECT WEEK 5
+FINAL PROJECT WEEK 7
 - One on one meetings and troubleshooting
 
 <i>ASSIGNMENTS
@@ -165,7 +169,8 @@ FINAL PROJECT WEEK 5
 
 <span id="rTitle">WEEK 12 NOVEMBER 22</span>
 
-FINAL PROJECT WEEK 6
+FINAL PROJECT WEEK 8
+- Final Project due
 - Final showcase
 
 <i>Final class for architecture students
@@ -176,7 +181,8 @@ THANKSGIVING NO CLASS
 
 <span id="rTitle">WEEK 14 DECEMBER 6</span>
 
-<i>All work due 1 week from today!
+<i>Final class for all students
+<i>All makeup work due 1 week from today!
     
 This is a class session held for interdisciplinary students only - architecture students will be in their studio critiques and not attend class. We will look at projects from the Center for Spatial Research and talk about next steps in terms of new skills and other class offerings.
 
