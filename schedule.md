@@ -60,7 +60,7 @@ LECTURE
 - Narratives: narrative structure and storytelling for visualization
 
 <i>ASSIGNMENTS
-- <i>Self Quantification Project Finals - Use what you have learned in D3 so far to make a version of your hand-drawn visualizations
+- <i>Self Quantification Project - Sketch 3 possibilities with different graphic representations.
 - <i>Read and follow Interactive Data Visualization for the Web by Scott Murray, Chapter 7 & 8 Scales and Axes
 - <i>Complete the accompanying code assignments
     - <i>Chapter 7: 10_ASSIGNMENT.html
@@ -78,7 +78,6 @@ LECTURE
 - Interactivity examples in D3
 
 <i>ASSIGNMENTS
-- <i>Self Quantification Project Finals - Use what you have learned in D3 so far to make a version of your hand-drawn visualizations
 - <i>Read and follow Interactive Data Visualization for the Web by Scott Murray, Chapter 9
 - <i>Complete the accompanying code assignments
    - <i>Chapter 9: 25_adding_values_ASSIGNMENT.html
